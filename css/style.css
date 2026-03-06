@@ -7,11 +7,12 @@
 */
 body {
   font-family: "Inter", "Helvatica Neue", Arial, Helvetica, sans-serif;
+  padding: 15px;
   line-height: 1.7;
   font-size: 18px;
   color: #333;
   background: #fafafa;
-  margin: 1;
+  margin: 0;
 
 }
 
@@ -58,7 +59,8 @@ img{
     max-width: 100%;
     height: auto;
     display: block;
-    
+    margin: 0 auto;
+    border-radius: 8px;
 
 }
 
